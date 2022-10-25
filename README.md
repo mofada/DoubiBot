@@ -48,6 +48,7 @@ DoubiBot是一个基于ESP8266的手写机器人，可以实现手动报时和�
 详细教程可以参考这篇文章：
 
 [稚晖：如何制作一支带逗比功能的笔](https://zhuanlan.zhihu.com/p/67700105)
+[稚晖君开源逗比钟_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1XP4y1p7W3?spm_id_from=333.999.0.0)
 
 项目中的文档【ESP8266 Nodemcu调试.pdf】是“完颜剑峰”的制作心得，我觉得很有参考价值，大家制作过程有问题的可以借鉴。
 
